@@ -1,4 +1,4 @@
 # Learning-demo
 Study Git
 <br>
-Author-Sarthak
+Author-Sarthak Panse
